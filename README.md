@@ -1,5 +1,4 @@
 # ecommerce-spring-boot-microservice
-ecommerce-spring-boot-microservice
 Services are goting to biuld:
 - Product Service: Create and View Products, atc as Product Catalog
 - Order Service: Can order products
